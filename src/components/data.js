@@ -5,7 +5,7 @@ const initialArray = [
     cardAttr1: "90",
     cardAttr2: "95",
     cardAttr3: "70",
-    cardImage: "https://scontent.ffrc6-1.fna.fbcdn.net/v/t1.6435-9/167931485_295169715308398_3057534484445358024_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHlAv4BM8s2SFEup6izetnPhY_vo3JVjVGFj--jclWNUXL8rSrljcuW267BPqESjIJQPL9gNSfnxnvs7nP6teaN&_nc_ohc=5K7NS52BMlEAX-0DcPn&tn=gfjJxGmbHGb7G6Jn&_nc_ht=scontent.ffrc6-1.fna&oh=00_AT9u36BHE-9PxVi_o4jb3t3hGqws6c2LiutsTHl50ozG5g&oe=62E122D7",
+    cardImage: "https://streamingsbrasil.com/wp-content/uploads/2021/02/thomas-shelby-morre-peaky-blinder.jpg",
     cardRare: "gold",
     cardTrunfo: false,
   },
